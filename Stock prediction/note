@@ -1,0 +1,26 @@
+DBSCAN
+HC
+K-MEAN
+
+
+- so sánh tỉ lệ chính xác
+- thời gian chạy (train)
+- đưa ra kết luận model nào
+- tiền xử lí dữ liệu có chạy xem tính tương quan
+- làm rõ bộ tương quan các bộ data
+
+
+- nguồn gốc data
+- có các trường gì
+- bao nhiêu dữ liệu
+- mỗi tập data gồm bao nhiêu bản ghi
+
+
+- vẽ quy trình xử lý model
+
+
+
+
+- dự đoán chứng khoán ( nhậpngayf or giờ??? tuy bài toá or  chart chứng khoán)
+
+- kết luận
